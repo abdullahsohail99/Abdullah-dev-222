@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Sohail</h1>
-<h3 align="center">A Pyhton Developer from Pakistan </h3>
+<h3 align="center">A Python Developer from Pakistan </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science projects and AI models using Python<br>👯 I’m looking to collaborate on Kaggle Competitions.<br>🤝 I’m looking to contribute to open-source AI and Data Science projects<br>🌱 I’m currently learning Generative AI and LLM integration<br>💬 Ask me about Python, Machine Learning, and Data Analysis<br>⚡ Fun fact : I switched from tea to coffee and my code quality went up
