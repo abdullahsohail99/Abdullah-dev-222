@@ -74,10 +74,10 @@ fun_fact:
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/abdullahsohail99/REPLACE-WITH-REPO-NAME">
+  <a href="https://github.com/abdullahsohail99/Water-Quality-Assessment-using-Digital-Image-Processing">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdullahsohail99&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/abdullahsohail99/REPLACE-WITH-REPO-NAME">
+  <a href="https://github.com/abdullahsohail99/Secure-Hospital-Network">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdullahsohail99&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
