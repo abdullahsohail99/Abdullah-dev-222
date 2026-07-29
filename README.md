@@ -1,19 +1,124 @@
-<h1 align="center">Hi 👋, I'm Abdullah Sohail</h1>
-<h3 align="center">A Python Developer from Pakistan </h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Abdullah%20Sohail&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Python%20Developer%20%7C%20Data%20Science%20%26%20AI%20Enthusiast&descAlignY=62&descSize=15&descAlign=50" />
 
-# 💫 About Me:
-🔭 I’m currently working on Data Science projects and AI models using Python<br>👯 I’m looking to collaborate on Kaggle Competitions.<br>🤝 I’m looking to contribute to open-source AI and Data Science projects<br>🌱 I’m currently learning Generative AI and LLM integration<br>💬 Ask me about Python, Machine Learning, and Data Analysis<br>⚡ Fun fact : I switched from tea to coffee and my code quality went up
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%E2%9C%A8;Open+to+Kaggle+Collaborations+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahsohail99">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/1857877">
+    <img src="https://img.shields.io/badge/Stack Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="mailto:qureshimabdullah1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahsohail99) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1857877) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qureshimabdullah1@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahsohail99&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
+## 👾 About Me
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdullah.dev.222) 
+```yaml
+name: Abdullah Sohail
+role: Python Developer
+location: Pakistan
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+what_i_do:
+  - Build Data Science projects & AI models using Python
+  - Analyze data and train Machine Learning models
+
+currently:
+  - 🌱 Learning Generative AI and LLM integration
+  - 📊 Working on Data Science & AI model projects
+
+passionate_about:
+  - 🏆 Kaggle Competitions
+  - 🤝 Contributing to open-source AI & Data Science projects
+  - 📈 Python, Machine Learning & Data Analysis
+
+fun_fact:
+  - Switched from tea to coffee — code quality went up ☕
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp,ts,html,css,powershell,nodejs,express,react,vite,tailwind,bootstrap,jquery,laravel&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,firebase,mongodb,mysql,sqlite,supabase&perline=8" />
+</p>
+
+**Data Science & Machine Learning**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenCV-00c9ff?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/abdullahsohail99/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdullahsohail99&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/abdullahsohail99/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdullahsohail99&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahsohail99&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahsohail99&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=abdullahsohail99&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsohail99&theme=react&hide_border=true&background=0d1117" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsohail99&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
+
+---
+
+## 📬 Let's Connect
+
+Open to collaborating on **Kaggle competitions** and **open-source AI / Data Science projects**.
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahsohail99">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:qureshimabdullah1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/abdullah.dev.222">
+    <img src="https://img.shields.io/badge/Buy Me a Coffee-Support-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
